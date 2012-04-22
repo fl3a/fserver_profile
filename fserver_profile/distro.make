@@ -11,5 +11,6 @@ core = 6.x
 projects[drupal][type] = core
 
 : fserver installation profile
+projects[fserver_profile][type] = "profile"
 projects[fserver][download][type] = git
 projects[fserver][download][url] = git://github.com/fl3a/feature_server_profile.git
