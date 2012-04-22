@@ -1,5 +1,5 @@
 api = 2
-core = 7.x
+core = 6.x
 
 ; Modules
 projects[cck][subdir] = contrib
