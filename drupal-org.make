@@ -17,6 +17,9 @@ projects[features][subdir] = contrib
 projects[filefield] = 3.10
 projects[filefield][subdir] = contrib
 
+projects[link] = 2.9
+projects[link][subdir] = contrib
+
 projects[nodereference_url] = 1.11
 projects[nodereference_url][subdir] = contrib
 
@@ -28,5 +31,6 @@ projects[views][subdir] = contrib
 
 ; Faetures server (fserver)
 projects[fserver][download][type] = "git"
-projects[fserver][subdir] = features
+projects[fserver][download][tag] = "6.x-1.3"
 projects[fserver][download][url] = "http://git.drupal.org/sandbox/fl3a/1539916.git"
+projects[fserver][subdir] = contrib
