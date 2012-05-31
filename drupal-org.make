@@ -35,6 +35,8 @@ projects[uuid][subdir] = contrib
 projects[uuid_features][subdir] = contrib
 
 projects[tao]
+projects[tao][type] = "theme"
+
 
 projects[singular][download][type] = "git"
 projects[singular][download][url] = git://github.com/developmentseed/singular.git
