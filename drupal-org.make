@@ -34,8 +34,7 @@ projects[uuid][subdir] = contrib
 
 projects[uuid_features][subdir] = contrib
 
-projects[tao]
-projects[tao][type] = "theme"
+projects[tao] = 3.3
 
 
 projects[singular][download][type] = "git"
