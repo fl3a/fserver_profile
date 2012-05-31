@@ -28,7 +28,7 @@ function fserver_profile_profile_modules() {
     'content', 'context', 'ctools', 'features', 
     'filefield', 'fserver', 'nodereference', 
     'nodereference_url', 'number', 'optionwidgets', 
-    'strongarm', 'text', 'views',
+    'strongarm', 'text', 'views', 'link'
   );
 }
 
