@@ -36,8 +36,10 @@ projects[uuid_features][subdir] = contrib
 
 projects[tao]
 
+projects[singular][type] = "theme"
 projects[singular][download][type] = "git"
 projects[singular][download][url] = git://github.com/developmentseed/singular.git
+
 
 ; Features server (fserver)
 projects[fserver][download][type] = "git"
