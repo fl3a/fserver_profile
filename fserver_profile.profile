@@ -41,7 +41,7 @@ function fserver_profile_profile_modules() {
  *   while the values will be displayed to the user in the installer
  *   task list.
  */
-function default_profile_task_list() {
+function fserver_profile_task_list() {
 }
 
 /**
