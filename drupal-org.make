@@ -29,9 +29,8 @@ projects[strongarm][subdir] = contrib
 ; projects[views] = 2.16
 projects[views][subdir] = contrib
 
-
+; uuid and uuid_features for fserver_categories
 projects[uuid][subdir] = contrib
-
 projects[uuid_features][subdir] = contrib
 
 projects[tao] = 3.3
