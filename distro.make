@@ -1,9 +1,4 @@
-o Feature Server for Drupal 6 make
-;
-erver_profile][type] = "profile" Developed by Miguel Jacq - http://mig5.net
-; Contributions from Dave Hall - http://davehall.com.au
-; Forked from Albert Szelagowski - http://omega8.cc, https://github.com/omega8cc/feature_server
-; Modified by Florian Latzel, http://is-loesungen.de
+; Feature Server for Drupal 6 make
 
 api = 2
 core = 6.x
