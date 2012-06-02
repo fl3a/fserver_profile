@@ -15,12 +15,12 @@ More information:
 ## Installation 
 
 You will need [drush](http://drupal.org/project/drush) 
-or in addition [drush make](http://drupal.org/project/drush_make)
+and in addition [drush make](http://drupal.org/project/drush_make)
 if you use drush before v. 5.
 
 Just run 
 
-    drush make https://raw.github.com/fl3a/fserver_profile/master/distro.make
+    drush make https://raw.github.com/fl3a/fserver_profile/master/distro.make fserver
     
 ## Credits
 
