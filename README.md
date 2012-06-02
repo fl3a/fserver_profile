@@ -1,4 +1,4 @@
-# Feature Server D6 install profile
+# Feature Server (fserver) D6 installation profile
 
 ## About 
 
