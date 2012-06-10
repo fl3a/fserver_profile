@@ -28,5 +28,5 @@ Just run
 * Developed by Miguel Jacq - http://mig5.net
 * Contributions from Dave Hall - http://davehall.com.au
 * Forked from Albert Szelagowski - http://omega8.cc, https://github.com/omega8cc/feature_server
-* Modified by Florian [http://drupal.org/user/51103]('fl3a') Latzel, http://is-loesungen.de
+* Modified by Florian ['fl3a'](http://drupal.org/user/51103) Latzel, http://is-loesungen.de
     
