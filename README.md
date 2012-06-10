@@ -1,14 +1,23 @@
 # Feature Server (fserver) D6 installation profile
 
+[TOC]
+
 ## About 
 
-A ready to go feature server installation profile.
+A ready to go feature server installation profile,
+
+based on my fserver sandbox on drupal.org.
+
 
 More information:
-* [Feature server (fserver) project page](http://drupal.org/project/fserver)
 * [fl3a's sandbox: fserver](http://drupal.org/sandbox/fl3a/1539916)
+* [Feature server (fserver) project page](http://drupal.org/project/fserver)
+
+## Documentation 
+
 * [Five Minute Feature Server: Share Your Features, Themes, and Custom Modules](http://developmentseed.org/blog/2009/sep/03/5-minute-feature-server/)
-* [Features project page](http://drupal.org/project/features)
+* [Distributed Feature Servers in Drupal](http://developmentseed.org/blog/2009/jun/24/distributed-feature-servers-drupal/) 
+* [Pushing Public and Private Updates From Your Feature Server](http://developmentseed.org/blog/2009/jun/25/pushing-public-private-updates-your-feature-server/)
 * [Features documentation on d.o](http://drupal.org/node/580026)
 
 ## Requirements
