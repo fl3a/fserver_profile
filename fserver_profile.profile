@@ -28,7 +28,10 @@ function fserver_profile_profile_modules() {
     'content', 'context', 'ctools', 'features', 
     'filefield', 'fserver', 'nodereference', 
     'nodereference_url', 'number', 'optionwidgets', 
-    'strongarm', 'text', 'views', 'link'
+    'strongarm', 'text', 'views', 'link',
+
+    /* features */
+    'fserver_navigation',  
   );
 }
 
@@ -71,6 +74,5 @@ function fserver_profile_profile_tasks() {
   $data['background_repeat'] = 'no-repeat';
   
   variable_set('theme_singular_settings', $data);
-    variable_set('theme_default', 'singular');
-
+  variable_set('theme_default', 'singular');
 }
