@@ -1,7 +1,5 @@
 # Feature Server (fserver) D6 installation profile
 
-[TOC]
-
 ## About 
 
 A ready to go feature server installation profile,
