@@ -16,7 +16,7 @@ make use of this Feature server installation profile:
 
 ## Installation 
 
-1. Just run 
+1\. Just run 
 
 	drush make https://raw.github.com/fl3a/fserver_profile/master/distro.make fserver
 
