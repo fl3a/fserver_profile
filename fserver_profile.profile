@@ -31,7 +31,7 @@ function fserver_profile_profile_modules() {
     'strongarm', 'text', 'views', 'link',
 
     /* features */
-    'fserver_navigation',  
+    'fserver_navigation',  'fserver_categories',
   );
 }
 
