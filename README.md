@@ -16,16 +16,18 @@ make use of this Feature server installation profile:
 
 ## Installation 
 
-1\. Just run 
+1. Just run 
 
-	drush make https://raw.github.com/fl3a/fserver_profile/master/distro.make fserver
+		drush make https://raw.github.com/fl3a/fserver_profile/master/distro.make fserver
 
 
-2.1 Choose `Feature Server` when installing Drupal manually
+2. Choose `Feature Server` when installing Drupal manually
+	
+	or
 
-2.2 If you use `drush site-install` run
+2. If you use `drush site-install` run
  
-	drush site-install fserver_profile -r fserver [OPTIONS]
+		drush site-install fserver_profile -r fserver [OPTIONS]
 
 ## Documentation 
 
