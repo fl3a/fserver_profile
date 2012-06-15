@@ -13,13 +13,13 @@ Regarding [Drupal.org distribution packaging requirements](http://drupal.org/nod
 
 * This distribution / installation profile relies on a sandbox project.
 
-> Git clones from Drupal.org sandboxes (as opposed to full projects) are not supported.
-> [#1432326: Support for git clones from Drupal.org sandboxes](http://drupal.org/node/1432326)
+    > Git clones from Drupal.org sandboxes (as opposed to full projects) are not supported.
+    > [#1432326: Support for git clones from Drupal.org sandboxes](http://drupal.org/node/1432326)
 
 * Singular theme is hosted on github.
 
-> Modules and themes hosted off Drupal.org are not supported. 
-> [#1427762: Allow modules/themes not hosted on Drupal.org to be packaged into distribution .make files.](http://drupal.org/node/1427762)
+    > Modules and themes hosted off Drupal.org are not supported. 
+    > [#1427762: Allow modules/themes not hosted on Drupal.org to be packaged into distribution .make files.](http://drupal.org/node/1427762)
 
 ## Requirements
 
