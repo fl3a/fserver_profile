@@ -5,6 +5,22 @@
 A ready to go [Feature server installation profile for Drupal 6.x](https://github.com/fl3a/fserver_profile),
 based on my [fserver sandbox on drupal.org](http://drupal.org/sandbox/fl3a/1539916).
 
+### Why is this distribution hosted on github?
+
+...and not on drupal.org?
+
+Regarding [Drupal.org distribution packaging requirements](http://drupal.org/node/1475972):
+
+* This distribution / installation profile relies on a sandbox project.
+
+> Git clones from Drupal.org sandboxes (as opposed to full projects) are not supported.
+> [#1432326: Support for git clones from Drupal.org sandboxes](http://drupal.org/node/1432326)
+
+* Singular theme is hosted on github.
+
+> Modules and themes hosted off Drupal.org are not supported. 
+> [#1427762: Allow modules/themes not hosted on Drupal.org to be packaged into distribution .make files.](http://drupal.org/node/1427762)
+
 ## Requirements
 
 In addition to the standard Drupal requirements you will need the following to
