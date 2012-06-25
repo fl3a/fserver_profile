@@ -41,3 +41,7 @@ projects[fserver][subdir] = contrib
 ; 'All releases' in a d.o. manner
 ; http://drupal.org/node/1537090
 projects[fserver][patch][1537090] = http://drupal.org/files/fserver.views_default.inc_1537090.patch
+
+; drush fserver-package: Use uid of supplied option as release node uid
+; http://drupal.org/node/1541778
+projects[fserver][patch][1541778] = http://drupal.org/files/fserver-drush-username-1541778-1.patch
