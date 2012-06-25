@@ -33,13 +33,6 @@ projects[views][subdir] = contrib
 projects[uuid][subdir] = contrib
 projects[uuid_features][subdir] = contrib
 
-projects[tao] = 3.3
-
-
-projects[singular][download][type] = "git"
-projects[singular][download][url] = git://github.com/developmentseed/singular.git
-projects[singular][type] = "theme"
-
 
 ; Features server (fserver)
 projects[fserver][download][type] = "git"
