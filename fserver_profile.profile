@@ -61,18 +61,5 @@ function fserver_profile_profile_tasks() {
   // Set the front page to be fserver
   variable_set('site_frontpage', 'fserver');
   
-  // Theme settings
-  $data = array();
-  $data['layout'] = 'fluid';
-  $data['autoclose'] = array(
-    'status' => 'status',
-    'warning' => 0,
-    'error' => 0,
-  );
-  $data['style'] = 'sea';
-  $data['background_color'] = '#888888';
-  $data['background_repeat'] = 'no-repeat';
-  
-  variable_set('theme_singular_settings', $data);
-  variable_set('theme_default', 'singular');
+  variable_set('theme_default', 'garland');
 }
