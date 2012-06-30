@@ -62,7 +62,4 @@ function fserver_profile_profile_tasks() {
   variable_set('site_frontpage', 'fserver');
   
   variable_set('theme_default', 'garland');
-
-  // move initial blocks (login and navigation) from left to right
-  db_query('UPDATE {blocks} SET region='right' where region='left');
 }
