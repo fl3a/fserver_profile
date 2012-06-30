@@ -55,7 +55,7 @@ function fserver_profile_profile_tasks() {
   // Update the menu router information.
   menu_rebuild();
 
-    // call rebuild - this makes the cck fields 'associate' to their node types properly
+  // call rebuild - this makes the cck fields 'associate' to their node types properly
   features_rebuild();
  
   // Set the front page to be fserver
