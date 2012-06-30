@@ -31,7 +31,7 @@ function fserver_profile_profile_modules() {
     'strongarm', 'text', 'views', 'link',
 
     /* features */
-    'fserver_navigation',  'fserver_categories',
+    'fserver_categories',
   );
 }
 
@@ -62,4 +62,7 @@ function fserver_profile_profile_tasks() {
   variable_set('site_frontpage', 'fserver');
   
   variable_set('theme_default', 'garland');
+
+  // move initial blocks (login and navigation) from left to right
+  db_query('UPDATE {blocks} SET region='right' where region='left');
 }
