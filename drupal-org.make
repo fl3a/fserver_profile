@@ -43,7 +43,7 @@ projects[singular][type] = "theme"
 
 ; Features server (fserver)
 projects[fserver][download][type] = "git"
-projects[fserver][download][tag] = "6.x-1.4"
+; projects[fserver][download][tag] = "6.x-1.4"
 projects[fserver][download][url] = "http://git.drupal.org/sandbox/fl3a/1539916.git"
 projects[fserver][subdir] = contrib
 
